@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-👨‍💻 Computer Science Student @ [Coburg University of Applied Sciences](https://www.coburg-university.de/) <br>🌱 I’m currently learning Java, Html, Css and many more things
+👨‍💻 Computer Science Student @ <a href="https://www.coburg-university.de/" target="_blank">Coburg University of Applied Sciences</a> <br>🌱 I’m currently learning Java, Html, Css and many more things
 
 ##
 
@@ -49,7 +49,7 @@ class Program
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Apatagonicus&theme=transparentk&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Apatagonicus&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ### ✍️ Random Dev Quote
 
